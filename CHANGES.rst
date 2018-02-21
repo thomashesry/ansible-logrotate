@@ -14,7 +14,13 @@ The current role maintainer_ is drybjed_
 `debops.logrotate master`_ - unreleased
 ---------------------------------------
 
-.. _debops.logrotate master: https://github.com/debops/ansible-logrotate/compare/v0.1.2...master
+.. _debops.logrotate master: https://github.com/debops/ansible-logrotate/compare/v0.1.3...master
+
+
+`debops.logrotate v0.1.3`_ - 2018-02-21
+---------------------------------------
+
+.. _debops.logrotate v0.1.3: https://github.com/debops/ansible-logrotate/compare/v0.1.2...v0.1.3
 
 Changed
 ~~~~~~~
